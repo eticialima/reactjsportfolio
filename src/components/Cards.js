@@ -20,8 +20,7 @@ function Cards() {
             <CardItem
               src='images/img-3.jpg'
               text='Site Portfolio em HTML/CSS/JS'
-              label='HTML/CSS/JS'
-              path='/PortifolioHTMLCSSJS'
+              label='HTML/CSS/JS' 
             />
              <CardItem
                 src="images/img-1.jpg"
@@ -34,22 +33,19 @@ function Cards() {
             <CardItem
                 src="images/img-2.jpg"
                 text="Site Portfolio em ReactJS"
-                label="ReactJS"
-                path="/PortifolioReactJS"
+                label="ReactJS" 
               />
               <CardItem
                 src="images/img-2.jpg"
                 text="Web Designer, formularios, login e senha e visual"
-                label="HTML/CSS/JS"
-                path="/Html1"
+                label="HTML/CSS/JS" 
               />
             </ul> 
             <ul className="cards__items">
               <CardItem
                 src="images/img-3.png"
                 text="Sistema de Controle de acesso por Reconhecimento Facial"
-                label="tcc2020"
-                path="/Tcc2020"
+                label="tcc2020" 
               />
             </ul>
           </div>
