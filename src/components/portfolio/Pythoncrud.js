@@ -126,56 +126,11 @@ function Pythoncrud() {
           <div className="portcards__container">
             <div className="portcards__wrapper">
               <ul className="portcards__items">
-                <CardItem src="images/img-12.jpg" />
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div className="portcards">
-          <div className="portcards__container">
-            <div className="portcards__wrapper">
-              <ul className="portcards__items">
                 <CardItem src="images/img-1.jpg" />
               </ul>
             </div>
           </div>
-        </div>
-        <div className="portcards">
-          <div className="portcards__container">
-            <div className="portcards__wrapper">
-              <ul className="portcards__items">
-                <CardItem src="images/img-13.jpg" />
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div className="portcards">
-          <div className="portcards__container">
-            <div className="portcards__wrapper">
-              <ul className="portcards__items">
-                <CardItem src="images/img-14.jpg" />
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div className="portcards">
-          <div className="portcards__container">
-            <div className="portcards__wrapper">
-              <ul className="portcards__items">
-                <CardItem src="images/img-15.jpg" />
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div className="portcards">
-          <div className="portcards__container">
-            <div className="portcards__wrapper">
-              <ul className="portcards__items">
-                <CardItem src="images/img-16.jpg" />
-              </ul>
-            </div>
-          </div>
-        </div>
+        </div> 
       </Animated>
       <br></br>
       <br></br>
