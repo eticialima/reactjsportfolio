@@ -27,7 +27,7 @@ function Pythoncrud() {
       <div className="rowbody">
         <div className={classes.root}>
           <div className="titlehome">
-            <h1>** Python com CRUD **</h1>
+            <h1>** PROJETO 1 TESTE **</h1>
           </div>
           <Grid container spacing={3}>
             <Grid

@@ -14,10 +14,10 @@ function Footer() {
         <div class="social-media-wrap">
           <div class="footer-logo">
             <Link to="/" className="social-logo">
-              Letícia Lima 
+              Seu nome aqui 
             </Link>
           </div>
-          <small class="website-rights">Letícia Lima © 2021</small>
+          <small class="website-rights">Seu nome aqui © 2021</small>
           <div class="social-icons">
             <Link
               class="social-icon-link facebook"
