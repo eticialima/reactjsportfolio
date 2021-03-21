@@ -21,22 +21,22 @@ function Model3d() {
           <div className="modelcards__wrapper">
             <ul className="modelcards__items">
               <CardItem src="images/model_1.jpg" path="/Model1" />
-              <CardItem src="images/model_2.jpg" path="/Model2" />
+              <CardItem src="images/model_2.jpg" />
             </ul>
             <ul className="modelcards__items">
-              <CardItem src="images/model_3.jpg" path="/Model3" />
-              <CardItem src="images/model_4.jpg" path="/Model4" />
-              <CardItem src="images/model_5.jpg" path="/Model5" />
+              <CardItem src="images/model_3.jpg" />
+              <CardItem src="images/model_4.jpg" />
+              <CardItem src="images/model_5.jpg" />
             </ul>
             <ul className="modelcards__items">
-              <CardItem src="images/model_6.jpg" path="/Model6" />
-              <CardItem src="images/model_7.jpg" path="/Model7" />
+              <CardItem src="images/model_6.jpg" />
+              <CardItem src="images/model_7.jpg" />
             </ul>
             <ul className="modelcards__items">
-              <CardItem src="images/model_8.jpg" path="/Model8" />
+              <CardItem src="images/model_8.jpg" />
             </ul>
             <ul className="modelcards__items">
-              <CardItem src="images/model_9.jpg" path="/Model9" />
+              <CardItem src="images/model_9.jpg" />
             </ul>
           </div>
         </div>
@@ -51,7 +51,7 @@ function Model3d() {
           <Typography variant="body1" component="body1">
             Para ver mais modelagens acesse o link abaixo:
             <p><Link
-              href="https://www.behance.net/eticialima" 
+              href="https://www.behance.net/" 
             >
               https://www.behance.net/eticialima
             </Link> </p>

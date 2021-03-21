@@ -12,7 +12,7 @@ const Progress = ({ done }) => {
   const [style, setStyle] = React.useState({});
 
   setTimeout(() => {
-    const newStyle = { 
+    const newStyle = {
       opacity: 1,
       width: `${done}%`,
     };
@@ -65,32 +65,40 @@ function Sobre() {
               </Grid>
               <Grid item xs={12} sm={6}>
                 <Typography variant="h2" component="h3">
-                  Letícia Lima
+                  Your Name
                 </Typography>
                 <hr></hr>
                 <br></br>
                 <Typography variant="h5" component="h2">
-                  Olá! Meu nome é Letícia Lima. Atualmente atuo como Analista de
-                  TI e trabalho como freelancer em projetos de modelagem e audio
-                  visual.
+                  Lorem ipsum elementum inceptos donec fames dapibus eleifend
+                  porta sapien quis, taciti nec elit sapien aenean habitasse
+                  praesent donec. justo sed duis tellus sollicitudin quisque
+                  vehicula turpis malesuada magna, curae suspendisse feugiat
+                  nunc lobortis fermentum non.
                 </Typography>
                 <br></br>
                 <Typography variant="h5" component="h2">
-                  Formada em computação com foco em programação e sistemas.
-                  Tenho visão abrangente e sólida de algumas ferramentas e
-                  conceitos. Sou apaixonada pelo mundo digital.
+                  tellus facilisis dictum hac ipsum vestibulum sem aptent ac nam
+                  laoreet, lobortis lectus libero vitae habitant sociosqu
+                  volutpat ante volutpat torquent, massa aptent pulvinar tellus
+                  duis molestie netus est himenaeos.
                 </Typography>
                 <br></br>
                 <Typography variant="h5" component="h2">
-                  Procuro inspiração nos meus clientes e no mundo tecnológico
-                  que me rodeia.
+                  a odio rutrum viverra mi tincidunt suspendisse, justo ipsum
+                  consequat dictumst sagittis gravida, elit tellus curae amet
+                  fermentum. adipiscing enim ornare amet varius sed cras aptent,
+                  nisl curabitur nunc dictumst tortor mauris.
                 </Typography>
                 <br></br>
                 <Typography variant="h5" component="h2">
-                  Venha conhecer um pouco do meu trajeto profissional.
+                  Lorem ipsum elementum inceptos donec fames dapibus eleifend
+                  porta sapien quis
                 </Typography>
                 <br></br>
-                <Button size="large" variant="outlined" href="https://drive.google.com/file/d/1jB4g_Smvb4JBNf1fPnf_iROsMcRC9pEH/view?usp=sharing" target="blank">DOWNLOAD_CV</Button>
+                <Button size="large" variant="outlined" href="/" target="blank">
+                  DOWNLOAD_CV
+                </Button>
               </Grid>
             </Grid>
           </Animated>

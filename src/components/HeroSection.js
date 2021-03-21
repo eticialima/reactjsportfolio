@@ -16,7 +16,7 @@ function HeroSection() {
     >
       <div className="hero-container">
         <video src="/videos/video-1.mp4" autoPlay loop muted />
-        <h1>I'm Letícia Lima</h1>
+        <h1>Seu Nome Aqui</h1>
         <Typical
           steps={["Gostaria de conhecer", 1000, "meus projetos ?", 500]}
           loop={Infinity}
@@ -38,7 +38,7 @@ function HeroSection() {
               buttonStyle="btn--outline"
               buttonSize="btn--large"
             >
-              SOBRE MIM
+              SOBRE 
             </Button>
           </a>
         </div>
