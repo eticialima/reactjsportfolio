@@ -37,8 +37,7 @@ function Contatome() {
                 <br></br>
                 <br></br> 
                 <Typography variant="h5" component="h2"> 
-                  Siga-me nas redes sociais logo abaixo, envie um email e logo mais eu respondo.
-                  Obrigada.
+                Lorem ipsum elementum inceptos donec fames dapibus eleifend porta sapien quis, taciti nec elit sapien aenean habitasse praesent donec. 
                 </Typography>
                 <br></br>
                 <br></br>

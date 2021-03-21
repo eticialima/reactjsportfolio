@@ -46,13 +46,12 @@ function Pythoncrud() {
                 isVisible={true}
               >
                 <Typography variant="h5" component="h5">
-                  Formulário Covid 19
+                  PROJETO 1 TESTE
                 </Typography>
                 <hr></hr>
                 <br></br>
                 <Typography variant="body1" component="body1">
-                  Projeto feito em Python com CRUD. Formulario diario sobre
-                  covid19. Tecnicas utilizadas abaixo
+                Lorem ipsum elementum inceptos donec fames dapibus eleifend porta sapien quis, taciti nec elit sapien aenean habitasse praesent donec. 
                 </Typography>
                 <br></br>
                 <br></br>
@@ -78,13 +77,7 @@ function Pythoncrud() {
 
                 <Typography variant="h5" component="h5">
                   Demo
-                </Typography>
-                <Link
-                  href="https://formcoviddemo.herokuapp.com/"
-                  target="blank"
-                >
-                  https://formcoviddemo.herokuapp.com/
-                </Link>
+                </Typography> 
               </Animated>
             </Grid>
             <Grid container
@@ -104,8 +97,7 @@ function Pythoncrud() {
                 <hr></hr>
                 <br></br>
                 <Typography variant="body1" component="body1">
-                  Vídeo Demonstrativo abaixo do projeto feito em Python com
-                  CRUD. Formulario diario sobre covid19.
+                Lorem ipsum elementum inceptos donec fames dapibus eleifend porta sapien quis, taciti nec elit sapien aenean habitasse praesent donec. 
                 </Typography>
                 <br></br>
                 <br></br>
