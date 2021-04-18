@@ -54,7 +54,7 @@ function Sobre() {
             isVisible={true}
           >
             <div className="titlehome">
-              <h1>** Sobre Mim **</h1>
+              <h1>** Lorem Ipsum  **</h1>
             </div>
 
             <Grid container spacing={3}>
@@ -65,7 +65,7 @@ function Sobre() {
               </Grid>
               <Grid item xs={12} sm={6}>
                 <Typography variant="h2" component="h3">
-                  Your Name
+                Lorem Ipsum 
                 </Typography>
                 <hr></hr>
                 <br></br>
@@ -117,41 +117,41 @@ function Sobre() {
             <Grid item xs={12} sm={12}>
               <div className=" bodysobre ">
                 <Typography variant="h2" component="h3">
-                  Skills
+                Lorem Ipsum 
                 </Typography>
                 <div className=" bodysobre ">
                   <Typography variant="h5" component="h4">
-                    ** HTML/CSS/Bootstrap **
+                    ** Lorem Ipsum **
                   </Typography>
                   <Progress done="80" />
                 </div>
                 <div className=" bodysobre ">
                   <Typography variant="h5" component="h4">
-                    ** JS **
+                    ** Lorem Ipsum **
                   </Typography>
                   <Progress done="75" />
                 </div>
                 <div className=" bodysobre ">
                   <Typography variant="h5" component="h4">
-                    ** Python/Kivy/MD **
+                    ** Lorem Ipsum **
                   </Typography>
                   <Progress done="60" />
                 </div>
                 <div className=" bodysobre ">
                   <Typography variant="h5" component="h4">
-                    ** Django **
+                    ** Lorem Ipsum **
                   </Typography>
                   <Progress done="55" />
                 </div>
                 <div className=" bodysobre ">
                   <Typography variant="h5" component="h4">
-                    ** SQLServer **
+                    ** Lorem Ipsum **
                   </Typography>
                   <Progress done="50" />
                 </div>
                 <div className=" bodysobre ">
                   <Typography variant="h5" component="h4">
-                    ** ReactJS/Bootstrap/UI **
+                    ** Lorem Ipsum **
                   </Typography>
                   <Progress done="30" />
                 </div>

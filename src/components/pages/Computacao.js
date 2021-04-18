@@ -4,7 +4,7 @@ import '../../App.css';
 function Computacao() {
     return (
         <div>
-            <h1>Em breve2</h1>
+            <h1>Lorem Ipsum</h1>
         </div>
     )
 }

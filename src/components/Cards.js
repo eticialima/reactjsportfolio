@@ -13,7 +13,7 @@ function Cards() {
       isVisible={true}
     >
       <div className="cards">
-        <h1>** Projetos **</h1>
+        <h1>** Lorem Ipsum **</h1>
         <div className="cards__container">
           <div className="cards__wrapper"> 
           <ul className='cards__items'>

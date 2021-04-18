@@ -44,12 +44,12 @@ function Model3d() {
       <Grid item xs={12} sm={12}>
         <div className="bodytexts1">
           <Typography variant="h2" component="h3">
-            + Modelagens
+            + Lorem Ipsum
           </Typography>
           <hr></hr>
           <br></br>
           <Typography variant="body1" component="body1">
-            Para ver mais modelagens acesse o link abaixo:
+           Lorem Ipsum is simply dummy text of the printing and typesetting industry.
             <p><Link
               href="https://www.behance.net/" 
             >
