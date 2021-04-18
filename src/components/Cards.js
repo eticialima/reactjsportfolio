@@ -34,12 +34,7 @@ function Cards() {
                 src="images/img-2.jpg"
                 text="Lorem Ipsum is simply dummy text "
                 label="ReactJS" 
-              />
-              <CardItem
-                src="images/img-2.jpg"
-                text="Lorem Ipsum is simply dummy text "
-                label="HTML/CSS/JS" 
-              />
+              /> 
             </ul> 
             <ul className="cards__items">
               <CardItem

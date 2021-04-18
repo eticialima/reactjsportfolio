@@ -27,7 +27,7 @@ function Pythoncrud() {
       <div className="rowbody">
         <div className={classes.root}>
           <div className="titlehome">
-            <h1>** PROJETO 1 TESTE **</h1>
+            <h1>** Lorem ipsum elementum inceptos donec **</h1>
           </div>
           <Grid container spacing={3}>
             <Grid
@@ -56,7 +56,7 @@ function Pythoncrud() {
                 <br></br>
                 <br></br>
                 <Typography variant="h4" component="h5">
-                  Detalhes
+                Lorem ipsum 
                 </Typography>
                 <br></br>
                 <Typography variant="h6" component="h6">
@@ -76,7 +76,7 @@ function Pythoncrud() {
                 <br></br>
 
                 <Typography variant="h5" component="h5">
-                  Demo
+                Lorem ipsum
                 </Typography> 
               </Animated>
             </Grid>
@@ -92,7 +92,7 @@ function Pythoncrud() {
                 isVisible={true}
               >
                 <Typography variant="h5" component="h5">
-                  Video Demo
+                  Video Lorem ipsum
                 </Typography>
                 <hr></hr>
                 <br></br>

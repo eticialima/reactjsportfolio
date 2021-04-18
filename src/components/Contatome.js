@@ -104,8 +104,8 @@ function Contatome() {
                 <br></br>
                 <Typography variant="h5" component="h2">
                   <p>Leticia Lima</p>
-                  <p>Rua Amadeu Amaral 140</p>
-                  <p>Vila Monteiro, SP</p>
+                  <p>Lorem ipsum elementum inceptos donec</p>
+                  <p>Lorem ipsum , SP</p>
                   <p>+55 16 9 94256485</p>
                   <p>leticialimacgi@gmail.com</p>
                 </Typography>
