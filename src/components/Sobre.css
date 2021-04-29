@@ -1,0 +1,125 @@
+.bodysobre {
+  padding-top: 3%;
+}
+
+.textsobre {
+  font-size: 21px;
+}
+
+.titlehome{
+  padding: 4rem; 
+  padding-top: 0px; 
+}
+ 
+.card1,
+.card2,
+.card3,
+.card4 {
+  position: absolute;
+  border-radius: 5px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  will-change: transform;
+}
+
+.card1 {
+  min-width: 60ch;
+  min-height: 60ch;
+  max-width: 100ch;
+  max-height: 100ch;
+  background-image: url(https://image.flaticon.com/icons/svg/119/119596.svg);
+}
+
+.card2 {
+  width: 25ch;
+  height: 25ch;
+  background-image: url(https://image.flaticon.com/icons/svg/789/789395.svg);
+}
+
+.card3 {
+  opacity: 0.9;
+  width: 25ch;
+  height: 25ch;
+  background-image: url(https://image.flaticon.com/icons/svg/414/414927.svg);
+}
+
+.card4 {
+  width: 25ch;
+  height: 25ch;
+  background-image: url(https://image.flaticon.com/icons/svg/789/789392.svg);
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* contact page css */
+
+.banner-text {
+  background-color: black;
+  opacity: 0.8;
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.banner-text h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner-text hr {
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+}
+
+.imgsobrecard { 
+  width: 100%;
+  background: rgb(41, 40, 40);
+  border-radius: 5px; 
+  background-size: cover;
+  background-position: center center;
+  box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.3);
+  transition: box-shadow 0.5s;
+  will-change: transform; 
+}
+
+.imgsobrecard:hover {
+  box-shadow: 0px 30px 100px -10px rgba(0, 0, 0, 0.4);
+}
+
+.progress {
+  background-color: #d8d8d8;
+  border-radius: 20px;
+  position: relative;
+  margin: 15px 0;
+  height: 30px;
+}
+
+.progress-done {
+  background: linear-gradient(to left, #ce0000, #c00000);
+  box-shadow: 0 3px 3px -5px #f2709c, 0 2px 5px #f2709c;
+  border-radius: 20px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 0;
+  opacity: 0;
+  transition: 1s ease 0.3s;
+}
+
+ 
