@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# portfolioReactJS
+ 
+### Previa
+ 
+<img src="git/demo.jpg?raw=true"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Ferramentas
+* ReactJS
+* HTML
+* CSS
+* Animations
+* Responsive
+* portfolio
+* Varias paginas
 
-## Available Scripts
+<p>Eu construí esse portfolio em reactjs, meu primeiro portfolio em reactJS. Utilizei esse video como referencia. <a href="https://www.youtube.com/watch?v=I2UBjN5ER4s&t=4582s">esse</a> Foi utilizado as habilidades em html/CSS e basico de JS para efeitos. Site totalmente responsive e configurado para varios dispositivos.
 
-In the project directory, you can run:
+<a href="https://portfolio-react-js.vercel.app/">DEMO</a>
 
-### `yarn start`
+### Arquivos no repositorio
+* login.html
+* pag1.html
+* pag2.html
+* pag3.html
+* enviado.html
+* style.css
+* blink.js
+* img_form.pasta  
+* git.pasta 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Como usar ? 
+<p>* npm install</P><p> Você pode baixar o repositorio ou clona-lo e depois executar o *npm install* para visualizar o site na web online. Explicação completa abaixo.</P> 
+ 
+## Como Executar o projeto. É simples !! Vamos Lá.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* Faça o download do repositorio. Git, Clone, Baixar. 
+* Após baixado Abra em alguma ide, pode ser o VSCode.
+* No terminal execute o comando *npm install* para instalar as dependencias.
+* Depois de instalado digite o comando *npm start* vai abrir http://localhost:3000.
+* Pronto é somente isso, Divirta-se !! 
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Para uma explicação mais aprofundada. 
+Acesse: https://facebook.github.io/create-react-app
 
-### `yarn build`
+### Obrigada ❤️
+<p>Qualquer duvida pode me chamar no instagram [@eticialima](https://www.instagram.com/eticialima).</p> 
+<br> 
+###  buymeacoffee buymeacoffee
+ 
+<a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img  src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+</p><br> 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
