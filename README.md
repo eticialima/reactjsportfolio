@@ -15,8 +15,6 @@
 * Varias paginas
 
 <p>Eu construí esse portfolio em reactjs, meu primeiro portfolio em reactJS. Utilizei esse video como referencia. <a href="https://www.youtube.com/watch?v=I2UBjN5ER4s&t=4582s">esse</a> Foi utilizado as habilidades em html/CSS e basico de JS para efeitos. Site totalmente responsive e configurado para varios dispositivos.
-
-<a href="https://portfolio-react-js.vercel.app/">DEMO</a>
  
 ### Como usar ? 
 <p>* npm install</P><p> Você pode baixar o repositorio ou clona-lo e depois executar o *npm install* para visualizar o site na web online. Explicação completa abaixo.</P> 
