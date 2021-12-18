@@ -26,11 +26,7 @@
 * No terminal execute o comando *npm install* para instalar as dependencias.
 * Depois de instalado digite o comando *npm start* vai abrir http://localhost:3000.
 * Pronto é somente isso, Divirta-se !! 
-
-
-### Para uma explicação mais aprofundada. 
-Acesse: https://facebook.github.io/create-react-app
-
+ 
 ### Obrigada ❤️
 <p>Qualquer duvida pode me chamar no instagram [@eticialima](https://www.instagram.com/eticialima).</p> 
 <br> 
