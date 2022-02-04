@@ -1,9 +1,7 @@
-# portfolioReactJS
+# Portfólio feito em Reactjs
  
 ### Previa
- 
-<img src="git/demo.jpg?raw=true"/>
-<img src="git/demo1.jpg?raw=true"/> 
+<img src="docs/demo1.jpg?raw=true"/> 
  
 ### Obrigada ❤️
 <p>[@eticialima](https://www.instagram.com/eticialima).</p>  
