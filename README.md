@@ -1,25 +1,25 @@
-# Portfólio feito em Reactjs
+# Portfolio made in ReactJs Web layout responsive.
  
 ### Previa
 <img src="docs/demo1.jpg?raw=true"/> 
   
-## Este projeto foi feito com:
+## This project was made with:
 
 * ReactJs.
 
-## Como rodar o projeto?
-
+## how to run the project?
+ 
 ``` 
 [Node.js](https://nodejs.org/en/download/)
 npm install
 npm start
 ```
 
-A aplicação estará rodando na porta 3000.
+The application will be running on port3000.
 
-E a primeira rota é localhost:3000 
+this is first router localhost:3000 
 
-### Obrigada ❤️
+### thanks ❤️
 [@eticialima](https://www.instagram.com/eticialima)
 
 ### buymeacoffee buymeacoffee
