@@ -3,7 +3,7 @@ import "../../App.css";
 import Sobre from "../Sobre";
 import Footer from "../Footer"; 
 
-function Portfolio() {
+function About() {
   return (
     <>
       <Sobre /> 
@@ -12,4 +12,4 @@ function Portfolio() {
   );
 }
 
-export default Portfolio;
+export default About;

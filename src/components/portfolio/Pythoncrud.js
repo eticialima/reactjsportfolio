@@ -46,7 +46,7 @@ function Pythoncrud() {
                 isVisible={true}
               >
                 <Typography variant="h5" component="h5">
-                  PROJETO 1 TESTE
+                    Lorem ipsum elementum
                 </Typography>
                 <hr></hr>
                 <br></br>
@@ -158,7 +158,7 @@ function Pythoncrud() {
                 buttonStyle="btn--outline"
                 buttonSize="btn--large"
               >
-                Voltar
+                Back
               </Button>
             </a>
           </div>

@@ -3,14 +3,14 @@ import Navbar from "./components/Navbar";
 import ScrollToTop from "./components/ScrollToTop";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
-import Home from "./components/pages/Home";
-import SobreM from "./components/pages/SobreM"; 
-import Portfolio from "./components/pages/Portfolio";
-import Modelagem from "./components/pages/Modelagem";
-import Computacao from "./components/pages/Computacao";
-import Contato from "./components/pages/Contato";
+import Home from "./components/pages/home";
+import About from "./components/pages/about"; 
+import Portfolio from "./components/pages/portfolio";
+import Model from "./components/pages/model";
+import Computer from "./components/pages/computer";
+import Contact from "./components/pages/contact";
 import Pythoncrud from "./components/portfolio/Pythoncrud";  
-import Model1 from "./components/Modelagem3D/Model1";
+import Model1 from "./components/model3d/model";
  
 
 
@@ -23,18 +23,18 @@ function App() {
           <div>
             <ScrollToTop />
             <Navbar />
-            <Route path="/SobreM" component={SobreM} />
-            <Route path="/Portfolio" component={Portfolio} />
-            <Route path="/Modelagem" component={Modelagem} />
-            <Route path="/Computacao" component={Computacao} />
-            <Route path="/Contato" component={Contato} />
+            <Route path="/about" component={About} />
+            <Route path="/portfolio" component={Portfolio} />
+            <Route path="/model" component={Model} />
+            <Route path="/computer" component={Computer} />
+            <Route path="/contact" component={Contact} />
           </div>
         </Switch>
         <div> 
-          <Route path="/Pythoncrud" component={Pythoncrud} /> 
+            <Route path="/Pythoncrud" component={Pythoncrud} /> 
         </div>
         <div> 
-          <Route path="/Model1" component={Model1} /> 
+            <Route path="/Model1" component={Model1} /> 
         </div> 
       </Router>
     </> 

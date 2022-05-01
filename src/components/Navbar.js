@@ -29,7 +29,7 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-            Seu nome
+            Your Name
           </Link>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"} />
@@ -37,21 +37,21 @@ function Navbar() {
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
               <Link to="/" className="nav-links" onClick={closeMobileMenu}>
-                Inicio
+                Home
               </Link>
             </li>
             <li className="nav-item">
               <Link
-                to="/sobrem"
+                to="/about"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Sobre Mim
+                About Me
               </Link>
             </li>
             <li className="nav-item">
               <Link
-                to="/Portfolio"
+                to="/portfolio"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
@@ -60,35 +60,35 @@ function Navbar() {
             </li> 
             <li className="nav-item">
               <Link
-                to="/Modelagem"
+                to="/model"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Modelagem 3D
+                Model 3D
               </Link>
             </li>
             <li className="nav-item">
               <Link
-                to="/Computacao"
+                to="/computer"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Computação
+                Computer
               </Link>
             </li>
             <li>
               <Link
-                to="/Contato"
+                to="/contact"
                 className="nav-links-mobile"
                 onClick={closeMobileMenu}
               >
-                Contato
+                Contact
               </Link>
             </li>
           </ul>
           {button && (
-            <a href="/Contato">
-              <Button buttonStyle="btn--outline">contato</Button>
+            <a href="/contact">
+              <Button buttonStyle="btn--outline">Contact</Button>
             </a>
           )}
         </div>

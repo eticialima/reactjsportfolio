@@ -7,17 +7,17 @@ function Footer() {
     <div className="footer-container">
       <section className="footer-subscription">
         <p className="footer-subscription-heading">
-        Siga-me nas redes Sociais.
+            Lorem ipsum elementum 
         </p> 
       </section>
       <section class="social-media">
         <div class="social-media-wrap">
           <div class="footer-logo">
             <Link to="/" className="social-logo">
-              Seu nome aqui 
+                Lorem ipsum elementum  
             </Link>
           </div>
-          <small class="website-rights">Seu nome aqui © 2021</small>
+            <small class="website-rights">Lorem ipsum elementum © 2021</small>
           <div class="social-icons">
             <Link
               class="social-icon-link facebook"

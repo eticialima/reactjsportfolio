@@ -16,7 +16,7 @@ function Model3d() {
       isVisible={true}
     >
       <div className="modelcards">
-        <h1>** Modelagens 3D **</h1>
+        <h1>** Model 3D **</h1>
         <div className="modelcards__container">
           <div className="modelcards__wrapper">
             <ul className="modelcards__items">

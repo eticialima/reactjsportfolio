@@ -20,7 +20,7 @@ function Contatome() {
             isVisible={true}
           >
             <div className="titlehome">
-              <h1>** Contato **</h1>
+              <h1>** Contact **</h1>
             </div>
 
             <Grid container spacing={3}>
@@ -31,7 +31,7 @@ function Contatome() {
               </Grid>
               <Grid item xs={12} sm={6}>
                 <Typography variant="h2" component="h3">
-                  Fale Comigo...
+                    Lorem ipsum elementum 
                 </Typography>
                 <hr></hr>
                 <br></br>
@@ -98,7 +98,7 @@ function Contatome() {
                 <br></br>
                 <br></br>
                 <Typography variant="h2" component="h3">
-                  Contato Detalhes
+                    Lorem ipsum 
                 </Typography>
                 <br></br>
                 <br></br>

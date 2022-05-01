@@ -1,7 +1,7 @@
 import React from 'react'
 import '../../App.css'; 
 
-function Computacao() {
+function Computer() {
     return (
         <div>
             <h1>Lorem Ipsum</h1>
@@ -9,4 +9,4 @@ function Computacao() {
     )
 }
 
-export default Computacao
+export default Computer
